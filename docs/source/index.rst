@@ -1,10 +1,8 @@
 Vítejte v projektu Nauč se Django
-===================================
+=================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+## Co je Django?
+Django je vysokoúrovňový *webový framework*, který umožňuje rychlý vývoj bezpečných a udržitelných webových aplikací. Je napsán v *Pythonu* a navržen s cílem usnadnit tvorbu komplexních, databázově orientovaných webových aplikací. Django se řídí principem *"DRY"* (Don't Repeat Yourself), který podporuje opětovné použití kódu a udržitelnost projektů.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
